@@ -1,0 +1,27 @@
+.cabecera{
+    text-align: center;
+    background-color: rgb(73, 144, 226);
+    color: white;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+
+.titulos {
+    color: rgb(73, 144, 226);
+    text-align: justify;
+}
+
+.lineas {
+    color: rgb(73, 144, 226);
+}
+
+.subtitulos {
+    color: rgb(73, 73, 73);
+}
+
+.pie {
+    background-color: rgb(73, 144, 226);
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
